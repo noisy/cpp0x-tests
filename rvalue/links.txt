@@ -1,0 +1,7 @@
+
+http://thbecker.net/articles/rvalue_references/section_01.html - "C++ Rvalue References Explained"
+http://stackoverflow.com/questions/844241/why-are-c0x-rvalue-reference-not-the-default
+http://www.artima.com/cppsource/rvalue.html - "A Brief Introduction to Rvalue References", by Howard E. Hinnant, Bjarne Stroustrup, and Bronek Kozicki
+http://pl.wikipedia.org/wiki/C%2B%2B0x
+
+
